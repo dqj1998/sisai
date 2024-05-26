@@ -8,6 +8,7 @@ AI based search to function: A function/page list will be advised when users inp
 
 20240526 UI@AI:ObS(Operating by Search):
 *Features Vectorizing: How to know the function of pages
+
 **Developer writes natural language explanation
 **Monitoring users’ operations to learn
 **Analysis pages
