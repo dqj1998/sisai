@@ -7,6 +7,7 @@ Software is AI
 AI based search to function: A function/page list will be advised when users input some words in a search textbox, and they can jump to the function/page directly without many clicks to goto a certain page.
 
 20240526 UI@AI:ObS(Operating by Search):
+
 *Features Vectorizing: How to know the function of pages
 
 **Developer writes natural language explanation
