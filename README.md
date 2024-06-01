@@ -14,4 +14,7 @@ AI based search to function: A function/page list will be advised when users inp
 **Monitoring users’ operations to learn
 **Analysis pages
 
+20240601
+
+<img width="525" alt="SisAi_Logo" src="https://github.com/dqj1998/sisai/assets/4339123/12a15653-2bfd-4b6e-a26d-0dfe0f151d14">
 
