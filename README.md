@@ -18,3 +18,7 @@ AI based search to function: A function/page list will be advised when users inp
 
 <img width="525" alt="SisAi_Logo" src="https://github.com/dqj1998/sisai/assets/4339123/12a15653-2bfd-4b6e-a26d-0dfe0f151d14">
 
+20240609 
+<img width="1041" alt="SisAi_bizScene" src="https://github.com/dqj1998/sisai/assets/4339123/bc5fe7ce-affb-4c26-9e3d-9557093d913e">
+
+
