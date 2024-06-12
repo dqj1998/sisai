@@ -21,4 +21,6 @@ AI based search to function: A function/page list will be advised when users inp
 20240609 
 <img width="1041" alt="SisAi_bizScene" src="https://github.com/dqj1998/sisai/assets/4339123/bc5fe7ce-affb-4c26-9e3d-9557093d913e">
 
+20240612
+<img width="1070" alt="SisAi_replaceSoftware" src="https://github.com/dqj1998/sisai/assets/4339123/67990bb0-fd45-40df-bc97-ed1174bcf100">
 
